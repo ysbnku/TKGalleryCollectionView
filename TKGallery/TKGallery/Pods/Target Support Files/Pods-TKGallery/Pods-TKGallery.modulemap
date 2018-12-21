@@ -1,0 +1,6 @@
+module Pods_TKGallery {
+  umbrella header "Pods-TKGallery-umbrella.h"
+
+  export *
+  module * { export * }
+}
